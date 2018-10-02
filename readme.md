@@ -37,7 +37,17 @@ function adder(param) {
 
 8. You've been tasked with thr objective of creating a student record object. call the object (studentDetail)
 
-   - the object should create the following - name - age - addrsss - department - parentDetails (this should be a sub object inside studentDetail) - parent details contains - firstName - LastName - address - phoneNumber (this should be an array of two numbers, each number in the array should be 11 digit long)
+   - the object should create the following 
+   	- name 
+	- age 
+	- address 
+	- department 
+		- parentDetails (this should be a sub object inside studentDetail) 
+		- parent details contains 
+		- firstName 
+		- LastName 
+		- address 
+	- phoneNumber (this should be an array of two numbers, each number in the array should be 11 digit long)
 
 9. add the property sex and put the value to be an array `["male", "female"]`
 
